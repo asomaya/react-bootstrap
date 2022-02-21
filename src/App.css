@@ -1,0 +1,177 @@
+*{
+  color: white !important;
+  max-width: 100%;
+ 
+
+}
+
+ input,select{
+ color: black !important;
+ }
+body{
+  background-color: rgba(0, 0, 0, 0.7) ;
+}
+
+.navbar{
+ background-color: rgba(0, 0, 0, 0.205) !important;
+}
+
+
+.logo{
+  height: 40px !important;
+  width: 40px !important;
+}
+
+.logo:hover{
+  color: brown !important;
+}
+
+.try{
+ z-index: 99999;
+  margin-top: 3.5rem;
+  border: solid white 0.1rem !important; 
+}
+
+
+.btn:hover{
+  color: brown !important;
+  background-color: white;
+}
+
+
+
+.nav-item >a:hover{
+  border-bottom: orange 0.4rem solid ;
+  color: orange !important;
+ 
+}
+.nav-item >a:focus{
+  border-bottom: orange 0.4rem solid ;
+  border-radius: 30%;
+  color: orange !important;
+ 
+}
+
+.cont{
+ 
+  margin-top: 10rem !important;
+  
+}
+.cc{
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1)),
+  url(./cc/img/mm.jpg);
+height: 100vh;
+background-position: center;
+background-size: cover;
+text-align: center !important;
+}
+
+.tt{
+  font-size: x-large;
+  text-transform: uppercase;
+	background: linear-gradient(to right, #e24017 0%, #e6dd67 100%);
+	-webkit-Background-Clip: text;
+	-webkit-text-fill-color: transparent;
+  font-weight: bolder !important;
+  
+}
+
+.abs{
+  position: absolute;
+  height: 100vh;
+  width: 200vh;
+
+}
+
+.margin{
+  margin-top: -2.5rem;
+  background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.5),
+    rgba(194, 53, 53, 0.3)
+  );
+  
+ 
+  backdrop-filter: blur(0.6rem);
+  
+  box-shadow: orange 0.7rem;
+}
+
+
+
+
+.card{
+ width: 18rem !important;
+}
+
+.head{
+ 
+  text-transform: uppercase;
+
+  font-weight: bolder !important;
+}
+
+.card-text{
+  color: black !important;
+}
+
+.left{
+align-items: center;
+
+ justify-content: space-around !important;
+ text-align: center;
+}
+
+.tripe{
+  border: blue solid 0.2rem;
+  background-color: blue;
+}
+
+.hi{
+ width: 100%;
+  height: 60vh;
+  background: url(./cc/img/b.jpg);
+
+  background-size: cover;
+
+
+}
+
+
+.glass{
+  padding-top: 4.5rem!important;
+ 
+ text-align: center !important;
+width: 70% !important;
+  background: 
+    rgba(7, 4, 4, 0.3);
+  border-radius: 2rem;
+ 
+ 
+  width: 50rem;
+  height: 20rem; 
+  
+}
+
+.bold{
+	background: linear-gradient(to right, #e24017 0%, #e6dd67 100%);
+	-webkit-Background-Clip: text;
+	-webkit-text-fill-color: transparent;
+  font-weight: bolder !important;
+  font-weight: bolder;
+}
+
+.abu{
+  background: linear-gradient(to right, #e24017 0%, #e6dd67 100%);
+  -webkit-Background-Clip: text;
+	-webkit-text-fill-color: transparent;
+  font-weight: bolder !important;
+  font-weight: bolder;
+}
+
+.flex{
+  display: flex!important;
+}
+.lar{
+  height: 3.5rem !important;
+}
